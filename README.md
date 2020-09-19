@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
 
 This repo is for assignment of week 4 of Getting and Cleaning Data Coursera course.
-* First, download and unzip the data file into your R working directory.
+* First, download [dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip the data file into your R working directory.
 * Second, download the R source code into your R working directory.
 * Finally, execute R source code to generate tidy data file.
 
